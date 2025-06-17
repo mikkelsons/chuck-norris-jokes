@@ -19,4 +19,4 @@ A simple web application built with Node.js and Express that fetches random Chuc
 - **Chuck Norris API**: External API for fetching jokes.
 
 ## Try it here live:
-  chuck-norris.smikkelson.io
+[chuck-norris.smikkelson.io](http://chuck-norris.smikkelson.io)
