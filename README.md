@@ -18,4 +18,5 @@ A simple web application built with Node.js and Express that fetches random Chuc
 - **EJS**: Templating engine for rendering dynamic HTML.
 - **Chuck Norris API**: External API for fetching jokes.
 
-## Try it here:
+## Try it here live:
+  chuck-norris.smikkelson.io
