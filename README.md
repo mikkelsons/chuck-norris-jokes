@@ -10,7 +10,6 @@ I do not claim any ownership of any of the jokes, nor do I condone the content o
 - Displays random Chuck Norris jokes.
 - Allows filtering jokes by category (e.g., dev, movie, etc.).
 - Simple and clean UI rendered with EJS templates.
-- Error handling for failed API requests.
 
 ## Technologies Used
 
